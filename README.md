@@ -3,3 +3,4 @@
 Olá! Bem vindo ao meu livro de receitas :vulcan_salute:
 
 - Strogonoff de frango
+- Pavê
